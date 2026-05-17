@@ -1,3 +1,5 @@
-json
-streamlit as st
-pandas as pd
+pycaret
+scikit-learn
+pandas
+plotly
+streamlit
